@@ -1,0 +1,19 @@
+version: "3.0"
+
+responses:
+  greet:
+    - "Hey! How are you?"
+    - "what about you? How are you?"
+  goodbye:
+    - "Bye have a nice day"
+  affirm:
+    - "Alright"
+  deny:
+    - "Oh ! No"
+  mood_great:
+    - "Cool!"
+  mood_unhappy:
+    - "well let me try to make you feel better"
+  bot_challenge:
+    - "Yes I am abot"
+
