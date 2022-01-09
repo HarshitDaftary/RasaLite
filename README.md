@@ -1,6 +1,6 @@
 # Rasa Lite
 
-Rasa Lite is a simple and straight forward implementation of Chatbot using Rasa framework. I feel Rasa Core is unnecessarily predicting actions and demands domain.yml, story.yml files. To know more about this project, checkout my blog on  [Rethinking Rasa Chatbot](https://daftaryharshit.medium.com/rethinking-rasa-chat-bot-f465e64051bd)
+Rasa Lite is a simple and straight forward implementation of Chatbot using Rasa framework. I feel Rasa Core unnecessarily **predicts utterances** and demands for **domains** and **story** files. To know more about this project, checkout my blog on  [Rethinking Rasa Chatbot](https://daftaryharshit.medium.com/rethinking-rasa-chat-bot-f465e64051bd)
 
 ## Features
 
